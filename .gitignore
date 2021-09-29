@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+docs/
+tests/
+*.jpg
+*.rar
+images icecream/
+images package/
+datasets/
